@@ -3,7 +3,17 @@ body {
   background: #f8e8a6;
 }
 
-a {
+img {
+  margin-top: 10px;
+  margin-bottom: 25px;
+  border-radius: 10px;
+}
+
+.internal-link {
   margin: 10px;
   color: green;
+}
+
+.external-link {
+  margin: 0;
 }
